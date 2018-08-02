@@ -1,0 +1,17 @@
+{
+  "name": "flipping-cards",
+  "version": "1.0.0",
+  "description": "Flipping cards animation",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "jay",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
